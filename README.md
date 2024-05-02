@@ -14,6 +14,10 @@
 
 <h2>Tech Stack</h2>
 <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/?username=hanna522&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+</a>
+
+<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
 </a>
 <br>
@@ -36,7 +40,7 @@
 </p>
 <br>
 
-<h3>Projects</h3>
+<h2>Projects</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
