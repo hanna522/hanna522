@@ -1,8 +1,8 @@
 <h1><img src="https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=Hello,%20I'm&fontSize=20&Hangyeol%20Kim&fontSize=60" /></h1>
 <p>
   <a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=dark" height='20px'/></a>
-  <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://skillicons.dev/icons?i=instagram" height='18px'/></a>
-  <a href='mailto:hangyeolkim522@gmail.com'><img align='left' alt="gmail" src="https://skillicons.dev/icons?i=gmail" height='18px'/></a>  
+  <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://skillicons.dev/icons?i=instagram&theme=dark" height='20px'/></a>
+  <a href='mailto:hangyeolkim522@gmail.com'><img align='left' alt="gmail" src="https://skillicons.dev/icons?i=gmail&theme=dark" height='20px'/></a> 
 </p>  
 <br>
 
@@ -30,7 +30,7 @@
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </p>
 <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanna522" alt="Hanna522's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522" alt="Hanna522's GitHub Stats">
 </a>
 <br>
 
