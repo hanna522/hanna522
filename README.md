@@ -1,6 +1,6 @@
 <h1><img src="https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=Hello,%20I'm&fontSize=20&Hangyeol%20Kim&fontSize=60" /></h1>
 
-<a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="ttps://skillicons.dev/icons?i=instagram" height='18px'/></a>
+<a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=instagram" height='18px'/></a>
 <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
