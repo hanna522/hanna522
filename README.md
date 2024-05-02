@@ -1,14 +1,11 @@
-<div>
-  <h1><img src="https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=Hello,%20I'm&fontSize=20&Hangyeol%20Kim&fontSize=60" /></h1>
-  <p>
-    <a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" height='18px'/></a>
-    <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://skillicons.dev/icons?i=instagram" height='18px'/></a>
-    <a href='hangyeolkim522@gmail.com'><img align='left' alt="gmail" src="https://skillicons.dev/icons?i=gmail" height='18px'/></a>  
-  </p>  
-</div>
+<h1><img src="https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=Hello,%20I'm&fontSize=20&Hangyeol%20Kim&fontSize=60" /></h1>
+<p>
+  <a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" height='18px'/></a>
+  <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://skillicons.dev/icons?i=instagram" height='18px'/></a>
+  <a href='mailto:hangyeolkim522@gmail.com'><img align='left' alt="gmail" src="https://skillicons.dev/icons?i=gmail" height='18px'/></a>  
+</p>  
 
 <h3>About Me<h3>
-
 <p>🔭 I’m currently working on Full stack app development, LLM project</p>
 <p>🌱 I’m currently learning Typescript, AWS</p>
 <p>🇺🇸 I'm from <b>Seoul, Korea</b>, currently living in <b>San Francisco, US</b></p>
@@ -32,7 +29,7 @@
 </p>
 
 <h2>GitHub Stats</h2>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  
 <h3>Projects</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
