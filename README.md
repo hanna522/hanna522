@@ -41,11 +41,17 @@
 <br>
 
 <h2>Projects</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=openai-project&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=tea-shop-website&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+</a>
+<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=evolution-simulator&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+</a>
+<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=digital-marketing&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
 </a>
 
 <br />
