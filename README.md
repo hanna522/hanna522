@@ -6,13 +6,17 @@
 </p>  
 <br>
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 <p>🔭 I’m currently working on Full stack app development, LLM project</p>
 <p>🌱 I’m currently learning Typescript, AWS</p>
 <p>🇺🇸 I'm from <b>Seoul, Korea</b>, currently living in <b>San Francisco, US</b></p>
 <br>
 
-<h3>Tech Stack</h3>
+<h2>Tech Stack</h2>
+<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=radical" alt="Hanna522's GitHub Stats">
+</a>
+
 <p>
   <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -29,9 +33,6 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </p>
-<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522" alt="Hanna522's GitHub Stats">
-</a>
 <br>
 
 <h3>Projects</h3>
