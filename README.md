@@ -1,5 +1,5 @@
-<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">Hey, nice to see you!</h1>
-<p>I'm Hanna, Fullstack Developer</p>
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hey, nice to see you!</h1>
+<p>I'm Hanna 🐮, Fullstack Developer</p>
 <p>
   <a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=dark" height='20px'/></a>
   <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://skillicons.dev/icons?i=instagram&theme=dark" height='20px'/></a>
