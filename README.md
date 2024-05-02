@@ -1,4 +1,4 @@
-<h1><img src="https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=Hello,%20I'm%20Hangyeol%20Kim&fontSize=60" /></h1>
+<h1><img src="https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=Hello,%20I'm&fontSize=20&text=Hangyeol%20Kim&fontSize=60" /></h1>
 
 <h2>About Me<h2>
 
