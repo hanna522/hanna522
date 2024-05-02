@@ -9,9 +9,15 @@
     </div>
   </div>
   <div style="flex: 1;">
-    <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
-    </a>
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
   </div>
 </div>
 
