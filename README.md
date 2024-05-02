@@ -1,6 +1,6 @@
 <h1><img src="https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=Hello,%20I'm&fontSize=20&Hangyeol%20Kim&fontSize=60" /></h1>
 <p>
-  <a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=linkedin" height='18px'/></a>
+  <a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=linkedinn&color=gray" height='18px'/></a>
   <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://skillicons.dev/icons?i=instagram" height='18px'/></a>
   <a href='mailto:hangyeolkim522@gmail.com'><img align='left' alt="gmail" src="https://skillicons.dev/icons?i=gmail" height='18px'/></a>  
 </p>  
