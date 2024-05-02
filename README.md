@@ -8,26 +8,17 @@
 <br />
 
 <h2>About Me</h2>
-<div align="center">
+<div>
   <p>🔭 I’m currently working on Full stack app development, LLM project</p>
   <p>🌱 I’m currently learning Typescript, AWS</p>
   <p>📍 I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><b>Seoul, Korea</b>, currently living in <b>San Francisco, US</b></p>
 </div>
 
 <h2>Tech Stack</h2>
-<div align="center">
-  <a align="top" href="https://github.com/hanna522/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/?username=hanna522&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
-  </a>
-  
-  <br />
-  <br />
-  
-  <a align="top" href="https://github.com/hanna522/github-readme-stats" target="_blank">
+<div>
+  <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
-  <br />
-
   <p>
     <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -47,7 +38,7 @@
 </div>
 
 <h2>Projects</h2>
-<div align="center">
+<div>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=openai-project&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
@@ -59,15 +50,5 @@
   </a>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=digital-marketing&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
-  </a>
-
-  <br />
-  <br />
-  
-  <a href="https://twitter.com/anuraghazru">
-    <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-  </a>
-  <a href="https://codesandbox.io/u/anuraghazra">
-    <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
   </a>
 </div>
