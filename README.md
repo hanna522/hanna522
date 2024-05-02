@@ -4,11 +4,13 @@
   <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://skillicons.dev/icons?i=instagram" height='18px'/></a>
   <a href='mailto:hangyeolkim522@gmail.com'><img align='left' alt="gmail" src="https://skillicons.dev/icons?i=gmail" height='18px'/></a>  
 </p>  
+<br>
 
 <h3>About Me</h3>
 <p>🔭 I’m currently working on Full stack app development, LLM project</p>
 <p>🌱 I’m currently learning Typescript, AWS</p>
 <p>🇺🇸 I'm from <b>Seoul, Korea</b>, currently living in <b>San Francisco, US</b></p>
+<br>
 
 <h3>Tech Stack</h3>
 <p>
@@ -27,10 +29,10 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </p>
-
 <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=hanna522" alt="Hanna522's GitHub Stats">
 </a>
+<br>
 
 <h3>Projects</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
