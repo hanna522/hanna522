@@ -1,13 +1,8 @@
 <h1><img src="https://capsule-render.vercel.app/api?type=Rect&color=timeGradient&height=200&section=header&text=Hello,%20I'm&fontSize=20&Hangyeol%20Kim&fontSize=60" /></h1>
 
-<p align="left">
- <a href="https://linkedin.com/in/hani-fares-072bb5a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
-<a href="https://twitter.com/elhanif93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhanif93" height="30" width="40" /></a>
- <a href="https://www.instagram.com/elhani__293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC6ICpvEY4RIjmn2fsDY-vgA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="el-hani - الهــاني" height="30" width="40" /></a>
- <a href="https://www.tiktok.com/@hanifares93" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" alt="elhani" height="40" width="50" /></a>
-  <a href="https://www.tiktok.com/@hanifares93" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="elhani" height="40" width="50" /></a>
-</p>
+<a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="ttps://skillicons.dev/icons?i=instagram" height='18px'/></a>
+<a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 <h3>About Me<h3>
 
