@@ -5,7 +5,7 @@
   <a href='mailto:hangyeolkim522@gmail.com'><img align='left' alt="gmail" src="https://skillicons.dev/icons?i=gmail" height='18px'/></a>  
 </p>  
 
-<h3>About Me<h3>
+<h3>About Me</h3>
 <p>🔭 I’m currently working on Full stack app development, LLM project</p>
 <p>🌱 I’m currently learning Typescript, AWS</p>
 <p>🇺🇸 I'm from <b>Seoul, Korea</b>, currently living in <b>San Francisco, US</b></p>
@@ -29,7 +29,8 @@
 </p>
 
 <h2>GitHub Stats</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3>Projects</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
