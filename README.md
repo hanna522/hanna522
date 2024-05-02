@@ -14,8 +14,9 @@
 
 <h2>Tech Stack</h2>
 <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=radical" alt="Hanna522's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
 </a>
+<br>
 
 <p>
   <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
