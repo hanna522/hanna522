@@ -1,4 +1,4 @@
-<h1>Hey, nice to see you!</h1>
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json" alt="hello">Hey, nice to see you!</h1>
 <p>I'm Hanna, Fullstack Developer</p>
 <p>
   <a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=dark" height='20px'/></a>
@@ -10,8 +10,8 @@
 <h2>About Me</h2>
 <div>
   <p>🔭 I’m currently working on Full stack app development, LLM project</p>
-  <p>🌱 I’m currently learning Typescript, AWS</p>
-  <p>📍 I'm from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/><b>Seoul, Korea</b>, currently living in <b>San Francisco, US</b></p>
+  <p>🌱 I’m currently learning Typescript, AWS and Ski</p>
+  <p>📍 I'm from 🇰🇷<b>Seoul, Korea</b>, currently living in 🇺🇸<b>San Francisco, US</b></p>
 </div>
 
 <h2>Tech Stack</h2>
