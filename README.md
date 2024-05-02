@@ -19,6 +19,10 @@
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
+  <br />
+  <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/?username=hanna522&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+  </a>
   <p>
     <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
