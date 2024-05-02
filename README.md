@@ -1,9 +1,18 @@
-<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hey, nice to see you!</h1>
-<div align="left" width="50%">
-  <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
-  <p>🔭 I’m currently working on Full stack app development, LLM project</p>
-  <p>🌱 I’m currently learning Typescript, AWS and Ski</p>
-  <p>📍 I'm from 🇰🇷<b>Seoul, Korea</b>, currently living in 🇺🇸<b>San Francisco, US</b></p>  
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hey, nice to see you!</h1>
+    <div>
+      <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
+      <p>🔭 I’m currently working on Full stack app development, LLM project</p>
+      <p>🌱 I’m currently learning Typescript, AWS and Ski</p>
+      <p>📍 I'm from 🇰🇷<b>Seoul, Korea</b>, currently living in 🇺🇸<b>San Francisco, US</b></p>
+    </div>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
+    </a>
+  </div>
 </div>
 
 <p>
