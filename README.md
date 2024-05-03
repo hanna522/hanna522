@@ -38,8 +38,10 @@ const anmol = {
   <tr>
     <td>
       <p><b>Top languages 👩‍💻</b></p>
+    </td>
+    <td>
       <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
       </a>
     </td>
   </tr>
