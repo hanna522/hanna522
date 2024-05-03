@@ -31,11 +31,11 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ### 📂 My Coding Stats
-<b>👩‍💻 Top langauges</b>
+<p><b>👩‍💻 Top langauges</b></p>
 <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
 </a>
-<b>⏱️ Weekly development breakdown</b>
+<p><b>⏱️ Weekly development breakdown</b></p>
 <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's Waka Stats">
 </a>
