@@ -1,9 +1,8 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<div width="80%">
-  <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
-  <p>I'm currently focusing on fullstack app development and LLM project, and learning Flutter and AWS.</p>  
-</div>
+<p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
+<p>I'm currently focusing on fullstack app development and LLM project, and learning Flutter and AWS.</p>  
+<br />
 <br />
 <p>
   <a href="https://linkedin.com/hgk22" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -35,14 +34,24 @@ const anmol = {
 ---
 
 ### 📊 My Coding Stats
-<p><b>- Top langauges 👩‍💻</b></p>
-<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
-</a>
-<p><b>- Weekly development breakdown ⏱️</b></p>
-<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's Waka Stats">
-</a>
+<table>
+  <tr>
+    <td>
+      <p><b>Top languages 👩‍💻</b></p>
+      <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p><b>Weekly development breakdown ⏱️</b></p>
+      <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's Waka Stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
