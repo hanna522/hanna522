@@ -1,7 +1,9 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
-<p>I'm currently focusing on fullstack app development and LLM project, and learning Flutter and AWS.</p>
+<div width="80%">
+  <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
+  <p>I'm currently focusing on fullstack app development and LLM project, and learning Flutter and AWS.</p>  
+</div>
 <br />
 <p>
   <a href="https://linkedin.com/hgk22" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
