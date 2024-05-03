@@ -1,11 +1,8 @@
 <div align="center" style="display: flex; align-items: flex-start;">
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!</h1>
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
   <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
-  <div>
-    <li>🔭 I’m currently working on Full stack app development, LLM project</li>
-    <li>🌱 I’m currently learning Typescript, AWS and Ski</li>
-    <li>📍 I'm currently living in 🇺🇸San Francisco</b></li> 
-  </div>
+  <p>I'm currently focusing on fullstack app development and LLM project, and learning Flutter and AWS.</p>
   <br />
   <p>
     <a href="https://linkedin.com/hgk22" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,7 +15,7 @@
 
 ```javascript
 const anmol = {
-    pronouns: "She" | "Her",
+    location: "San Francisco",
     code: ["Javascript", "Typescript", "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "ski"],
     technologies: {
