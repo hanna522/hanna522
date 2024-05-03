@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start;">
+<div align="center" style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hey, nice to see you!</h1>
     <div>
@@ -9,15 +9,7 @@
     </div>
   </div>
   <div style="flex: 1;">
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
+
   </div>
 </div>
 
