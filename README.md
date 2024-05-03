@@ -1,10 +1,10 @@
 <div align="center" style="display: flex; align-items: flex-start;">
-  <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hey, nice to see you!</h1>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!</h1>
   <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
   <div>
     <li>🔭 I’m currently working on Full stack app development, LLM project</li>
     <li>🌱 I’m currently learning Typescript, AWS and Ski</li>
-    <li>📍 I'm from 🇰🇷<b>Seoul, Korea</b>, currently living in 🇺🇸<b>San Francisco, US</b></li> 
+    <li>📍 I'm currently living in 🇺🇸San Francisco</b></li> 
   </div>
   <br />
   <p>
@@ -34,8 +34,8 @@ const anmol = {
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<h2>Projects</h2>
-<div>
+### These are my projects
+<div align="center">
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=openai-project&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
