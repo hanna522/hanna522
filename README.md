@@ -5,11 +5,11 @@
     <p>🔭 I’m currently working on Full stack app development, LLM project</p>
     <p>🌱 I’m currently learning Typescript, AWS and Ski</p>
     <p>📍 I'm from 🇰🇷<b>Seoul, Korea</b>, currently living in 🇺🇸<b>San Francisco, US</b></p>
-  </div>
+    </div>
   <p>
-    <a href='https://www.linkedin.com/in/hgk22/'><img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=dark" height='20px'/></a>
-    <a href='https://instagram.com/hg.y00/'><img alt="instagram" src="https://skillicons.dev/icons?i=instagram&theme=dark" height='20px'/></a>
-    <a href='mailto:hangyeolkim522@gmail.com'><img alt="gmail" src="https://skillicons.dev/icons?i=gmail&theme=dark" height='20px'/></a> 
+    <a href="https://linkedin.com/hgk22" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/hg.y00" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+    <a href="mailto:hangyeolkim522@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   </p>
 </div>
 <br />
