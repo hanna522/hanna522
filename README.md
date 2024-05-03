@@ -15,10 +15,34 @@
 </div>
 <br />
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 <h2>Tech Stack</h2>
 <div>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats" width="100%" height="50px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
   <p>
     <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
