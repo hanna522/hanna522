@@ -1,23 +1,17 @@
 <div align="center" style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hey, nice to see you!</h1>
-    <div align="left">
-      <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
-      <p>🔭 I’m currently working on Full stack app development, LLM project</p>
-      <p>🌱 I’m currently learning Typescript, AWS and Ski</p>
-      <p>📍 I'm from 🇰🇷<b>Seoul, Korea</b>, currently living in 🇺🇸<b>San Francisco, US</b></p>
-    </div>
+  <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hey, nice to see you!</h1>
+  <div>
+    <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
+    <p>🔭 I’m currently working on Full stack app development, LLM project</p>
+    <p>🌱 I’m currently learning Typescript, AWS and Ski</p>
+    <p>📍 I'm from 🇰🇷<b>Seoul, Korea</b>, currently living in 🇺🇸<b>San Francisco, US</b></p>
   </div>
-  <div style="flex: 1;">
-
-  </div>
+  <p>
+    <a href='https://www.linkedin.com/in/hgk22/'><img alt="linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=dark" height='20px'/></a>
+    <a href='https://instagram.com/hg.y00/'><img alt="instagram" src="https://skillicons.dev/icons?i=instagram&theme=dark" height='20px'/></a>
+    <a href='mailto:hangyeolkim522@gmail.com'><img alt="gmail" src="https://skillicons.dev/icons?i=gmail&theme=dark" height='20px'/></a> 
+  </p>
 </div>
-
-<p>
-  <a href='https://www.linkedin.com/in/hgk22/'><img align='left' alt="linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=dark" height='20px'/></a>
-  <a href='https://instagram.com/hg.y00/'><img align='left' alt="instagram" src="https://skillicons.dev/icons?i=instagram&theme=dark" height='20px'/></a>
-  <a href='mailto:hangyeolkim522@gmail.com'><img align='left' alt="gmail" src="https://skillicons.dev/icons?i=gmail&theme=dark" height='20px'/></a> 
-</p>
 <br />
 
 <h2>Tech Stack</h2>
