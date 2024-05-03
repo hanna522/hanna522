@@ -37,11 +37,11 @@ const anmol = {
 </a>
 <p>Weekly development breakdown</p>
 <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/waka/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's Waka Stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's Waka Stats">
 </a>
 
 ### 📂 These are my projects
-<div align="center">
+<div>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=openai-project&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
