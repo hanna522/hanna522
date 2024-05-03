@@ -1,8 +1,7 @@
 <div align="center" style="display: flex; align-items: flex-start;">
   <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Hey, nice to see you!</h1>
   <p>I'm <b>Hanna</b> 🐮, Fullstack Developer.</p>
-  - 🔭 I’m currently working on Full stack app development, LLM project
-  - 
+    <li>🔭 I’m currently working on Full stack app development, LLM project</li>
     <li>🌱 I’m currently learning Typescript, AWS and Ski</li>
     <li>📍 I'm from 🇰🇷<b>Seoul, Korea</b>, currently living in 🇺🇸<b>San Francisco, US</b></li> 
   <p>
