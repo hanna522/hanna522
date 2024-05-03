@@ -30,8 +30,17 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-----
-### These are my projects
+### 📂 My Coding Stats
+<p>Top langauges</p>
+<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
+</a>
+<p>Weekly development breakdown</p>
+<a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/waka/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's Waka Stats">
+</a>
+
+### 📂 These are my projects
 <div align="center">
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=openai-project&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
@@ -40,9 +49,9 @@ const anmol = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=tea-shop-website&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=evolution-simulator&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=evolution-simulator&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=digital-marketing&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=digital-marketing&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
 </div>
