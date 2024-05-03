@@ -3,7 +3,7 @@
 <p>I'm <b>Hanna</b> 🐮, Software Engineer.</p>
 <p>I'm currently focusing on <b>fullstack app development and LLM project</b>, and learning <b>Flutter and AWS</b>.</p>  
 
-👇 <b>Connect with me!</b> 👇
+<p>👇 <b>Connect with me!</b> 👇</p>
 <a href="https://www.linkedin.com/in/hgk22" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/hg.y00" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 <a href="mailto:hangyeolkim522@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
