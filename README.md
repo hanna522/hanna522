@@ -18,7 +18,7 @@
 <h2>Tech Stack</h2>
 <div>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats" width="100%">
   </a>
   <p>
     <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
@@ -41,10 +41,10 @@
 <h2>Projects</h2>
 <div>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=openai-project&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=openai-project&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=tea-shop-website&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=tea-shop-website&theme=transparent&layout=compact" alt="Hanna522's GitHub Stats">
   </a>
   <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanna522&repo=evolution-simulator&theme=radical&layout=compact" alt="Hanna522's GitHub Stats">
