@@ -38,7 +38,7 @@ const hanna = {
       <p><b>Top languages 👩‍💻</b></p>
     </td>
     <td>
-      <p><b></b></p>
+      <p><b>Github Stats 📈</b></p>
     </td>  
   </tr>
   <tr>
@@ -53,12 +53,19 @@ const hanna = {
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p><b>Weekly development breakdown ⏱️</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's Waka Stats">
+      </a>
+    </td>
+  </tr>    
 </table>
-
-<p><b>Weekly development breakdown ⏱️</b></p>
-  <a href="https://github.com/hanna522/github-readme-stats" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hanna522&theme=transparent&layout=compact" alt="Hanna522's Waka Stats">
-  </a>
 
 ---
 
