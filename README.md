@@ -1,33 +1,9 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p>I'm <b>Hanna</b> 🐮, Software Engineer.</p>
-<p>I'm currently focusing on <b>fullstack app development and LLM project</b>, and learning <b>Flutter and AWS</b>.</p>  
+## Hi, I'm Hangyeol (Hanna) Kim!
+<p>I'm a <b>Software Engineer</b> with professional experience in <b>full-stack development</b>. I bring hands-on expertise in <b>AI/ML, cloud-based solutions, and data analytics</b>. I'm passionate about building scalable, efficient systems that address real-world problems through technology. Feel free to explore my projects and connect!</p>
 
-<p>👇 <b>Connect with me!</b> 👇</p>
-<a href="https://www.linkedin.com/in/hgk22" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/hg.y00" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-<a href="mailto:hangyeolkim522@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const hanna = {
-    location: "San Francisco",
-    code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "ski"],
-    technologies: {
-        frontend: {
-            js: ["React", "And so on..."],
-        },
-        mobileApp: {
-            Flutter: ["Android/IOS Development"]
-        },
-        databases: ["mongo", "MySql", "sqlite", "postgres"]
-    }
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I like getting to know new people</b>, so feel free to say <b>hi, I'd love to chat more!</b> ☺️</em>
+- LinkedIn: <a href="https://www.linkedin.com/in/hgk22">https://www.linkedin.com/in/hgk22</a>
+- Email: <a href="mailto:hangyeolkim522@gmail.com">hangyeolkim522@gmail.com</a>
+- Portfolio: <a href="https://hangyeol-kim-portfolio.vercel.app">https://hangyeol-kim-portfolio.vercel.app</a>
 
 ---
 
