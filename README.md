@@ -1,4 +1,4 @@
-## Hi, I'm Hangyeol (Hanna) Kim!
+## Hi, I'm Hanna Kim!
 <p>I'm a <b>Software Engineer</b> with professional experience in <b>full-stack development</b>. I bring hands-on expertise in <b>AI/ML, cloud-based solutions, and data analytics</b>. I'm passionate about building scalable, efficient systems that address real-world problems through technology. Feel free to explore my projects and connect!</p>
 
 - LinkedIn: <a href="https://www.linkedin.com/in/hgk22">https://www.linkedin.com/in/hgk22</a>
